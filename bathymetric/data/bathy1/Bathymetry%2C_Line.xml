@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xalan="http://xml.apache.org/xalan" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns="http://www.isotc211.org/2005/gmd">
+    <fileIdentifier>
+        <gco:CharacterString>8c66fb7f8be242f38fa11c096bd04da8</gco:CharacterString>
+    </fileIdentifier>
+    <language>
+        <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+    </language>
+    <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+    </characterSet>
+    <hierarchyLevel>
+        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+    </hierarchyLevel>
+    <contact>
+        <CI_ResponsibleParty>
+            <organisationName>
+                <gco:CharacterString>Ontario Ministry of Natural Resources - Provincial Mapping Unit</gco:CharacterString>
+            </organisationName>
+            <contactInfo>
+                <CI_Contact>
+                    <address>
+                        <CI_Address>
+                            <electronicMailAddress>
+                                <gco:CharacterString>geospatial@ontario.ca</gco:CharacterString>
+                            </electronicMailAddress>
+                        </CI_Address>
+                    </address>
+                </CI_Contact>
+            </contactInfo>
+            <role>
+                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="custodian" codeSpace="ISOTC211/19115">custodian</CI_RoleCode>
+            </role>
+        </CI_ResponsibleParty>
+    </contact>
+    <dateStamp>
+        <gco:Date>2020-01-03</gco:Date>
+    </dateStamp>
+    <metadataStandardName>
+        <gco:CharacterString>NAP - Metadata</gco:CharacterString>
+    </metadataStandardName>
+    <metadataStandardVersion>
+        <gco:CharacterString>1.2</gco:CharacterString>
+    </metadataStandardVersion>
+    <referenceSystemInfo>
+        <MD_ReferenceSystem>
+            <referenceSystemIdentifier>
+                <RS_Identifier>
+                    <code>
+                        <gco:CharacterString>Grid CS = Universal Transverse Mercator; Map Proj = Transverse Mercator; Horiz. Datum = NAD83; Vert. Datum = CGD28 - CDN</gco:CharacterString>
+                    </code>
+                </RS_Identifier>
+            </referenceSystemIdentifier>
+        </MD_ReferenceSystem>
+    </referenceSystemInfo>
+    <identificationInfo>
+        <MD_DataIdentification>
+            <citation>
+                <CI_Citation>
+                    <title>
+                        <gco:CharacterString>Bathymetry, Line</gco:CharacterString>
+                    </title>
+                    <alternateTitle>
+                        <gco:CharacterString>BATHYML</gco:CharacterString>
+                    </alternateTitle>
+                    <date>
+                        <CI_Date>
+                            <date>
+                                <gco:Date>2006-04-28</gco:Date>
+                            </date>
+                            <dateType>
+                                <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation" codeSpace="ISOTC211/19115">creation</CI_DateTypeCode>
+                            </dateType>
+                        </CI_Date>
+                    </date>
+                    <date>
+                        <CI_Date>
+                            <date>
+                                <gco:DateTime>2025-01-23T12:53:20</gco:DateTime>
+                            </date>
+                            <dateType>
+                                <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</CI_DateTypeCode>
+                            </dateType>
+                        </CI_Date>
+                    </date>
+                    <identifier>
+                        <MD_Identifier>
+                            <authority>
+                                <CI_Citation>
+                                    <title>
+                                        <gco:CharacterString>LIO Metadata Management Tool UUID</gco:CharacterString>
+                                    </title>
+                                    <date>
+                                        <CI_Date>
+                                            <date>
+                                                <gco:DateTime>2019-04-11T14:54:48.366452</gco:DateTime>
+                                            </date>
+                                            <dateType>
+                                                <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                                            </dateType>
+                                        </CI_Date>
+                                    </date>
+                                    <citedResponsibleParty gco:nilReason="missing"/>
+                                </CI_Citation>
+                            </authority>
+                            <code>
+                                <gco:CharacterString>b0d2a7e5-c4c9-4ca7-997c-a52446ac9ce5</gco:CharacterString>
+                            </code>
+                        </MD_Identifier>
+                    </identifier>
+                    <identifier>
+                        <MD_Identifier>
+                            <authority>
+                                <CI_Citation>
+                                    <title>
+                                        <gco:CharacterString>LIO Concrete Class Short Name</gco:CharacterString>
+                                    </title>
+                                    <date>
+                                        <CI_Date>
+                                            <date>
+                                                <gco:DateTime>2019-04-11T14:54:48.376445</gco:DateTime>
+                                            </date>
+                                            <dateType>
+                                                <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                                            </dateType>
+                                        </CI_Date>
+                                    </date>
+                                    <citedResponsibleParty gco:nilReason="missing"/>
+                                </CI_Citation>
+                            </authority>
+                            <code>
+                                <gco:CharacterString>BATHYML</gco:CharacterString>
+                            </code>
+                        </MD_Identifier>
+                    </identifier>
+                    <identifier>
+                        <MD_Identifier>
+                            <authority>
+                                <CI_Citation>
+                                    <title>
+                                        <gco:CharacterString>Ontario GeoHub French Record ID</gco:CharacterString>
+                                    </title>
+                                    <date>
+                                        <CI_Date>
+                                            <date>
+                                                <gco:DateTime>2020-12-07T13:50:09.706572</gco:DateTime>
+                                            </date>
+                                            <dateType>
+                                                <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                                            </dateType>
+                                        </CI_Date>
+                                    </date>
+                                    <citedResponsibleParty gco:nilReason="missing"/>
+                                </CI_Citation>
+                            </authority>
+                            <code>
+                                <gco:CharacterString>b776231e8d284c49b4435534bdb3e8ec_30</gco:CharacterString>
+                            </code>
+                        </MD_Identifier>
+                    </identifier>
+                    <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                            <organisationName>
+                                <gco:CharacterString>Ontario Ministry of Natural Resources</gco:CharacterString>
+                            </organisationName>
+                            <contactInfo gco:nilReason="missing"/>
+                            <role>
+                                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+                            </role>
+                        </CI_ResponsibleParty>
+                    </citedResponsibleParty>
+                </CI_Citation>
+            </citation>
+            <abstract>
+                <gco:CharacterString>Bathymetry line data was collected to assess fish habitat in Ontario. Spot depths (bathymetry points) were used to measure the depth contours, which function like isobars to show lines of constant depth. Their density and positional accuracies vary depending on the survey style and parameters. This data should never be used for navigation.  
+  
+ Additional Documentation  
+
+Bathymetry Line - User Guide (Word)
+Bathymetry Line - Data Description (PDF)
+Bathymetry Line - Documentation (Word)
+ 
+ Status  
+On going: data is being continually updated 
+  
+ Maintenance and Update Frequency  
+As needed: data is updated as deemed necessary 
+  
+ Contact  
+Ontario Ministry of Natural Resources - Geospatial Ontario, geospatial@ontario.ca  </gco:CharacterString>
+            </abstract>
+            <purpose>
+                <gco:CharacterString>This data shows depth contour lines, describing the terrain relief below the surface of bodies of water. This data should never be used for navigation.</gco:CharacterString>
+            </purpose>
+            <credit>
+                <gco:CharacterString>https://www.ontario.ca/page/open-government-licence-ontario</gco:CharacterString>
+            </credit>
+            <status>
+                <MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="onGoing" codeSpace="ISOTC211/19115">onGoing</MD_ProgressCode>
+            </status>
+            <pointOfContact>
+                <CI_ResponsibleParty>
+                    <organisationName>
+                        <gco:CharacterString>Ontario Ministry of Natural Resources - Geospatial Ontario</gco:CharacterString>
+                    </organisationName>
+                    <contactInfo>
+                        <CI_Contact>
+                            <phone>
+                                <CI_Telephone>
+                                    <voice>
+                                        <gco:CharacterString>(705)7551878</gco:CharacterString>
+                                    </voice>
+                                </CI_Telephone>
+                            </phone>
+                            <address>
+                                <CI_Address>
+                                    <electronicMailAddress>
+                                        <gco:CharacterString>geospatial@ontario.ca</gco:CharacterString>
+                                    </electronicMailAddress>
+                                </CI_Address>
+                            </address>
+                        </CI_Contact>
+                    </contactInfo>
+                    <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="custodian" codeSpace="ISOTC211/19115">custodian</CI_RoleCode>
+                    </role>
+                </CI_ResponsibleParty>
+            </pointOfContact>
+            <pointOfContact>
+                <CI_ResponsibleParty>
+                    <organisationName>
+                        <gco:CharacterString>Ontario Ministry of Natural Resources - Geospatial Ontario</gco:CharacterString>
+                    </organisationName>
+                    <contactInfo>
+                        <CI_Contact>
+                            <phone>
+                                <CI_Telephone>
+                                    <voice>
+                                        <gco:CharacterString>1 (705) 7551878</gco:CharacterString>
+                                    </voice>
+                                </CI_Telephone>
+                            </phone>
+                            <address>
+                                <CI_Address>
+                                    <electronicMailAddress>
+                                        <gco:CharacterString>geospatial@ontario.ca</gco:CharacterString>
+                                    </electronicMailAddress>
+                                </CI_Address>
+                            </address>
+                        </CI_Contact>
+                    </contactInfo>
+                    <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+                    </role>
+                </CI_ResponsibleParty>
+            </pointOfContact>
+            <resourceMaintenance>
+                <MD_MaintenanceInformation>
+                    <maintenanceAndUpdateFrequency>
+                        <MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded" codeSpace="ISOTC211/19115">asNeeded</MD_MaintenanceFrequencyCode>
+                    </maintenanceAndUpdateFrequency>
+                </MD_MaintenanceInformation>
+            </resourceMaintenance>
+            <graphicOverview>
+                <MD_BrowseGraphic>
+                    <fileName gco:nilReason="withheld"/>
+                    <fileDescription>
+                        <gco:CharacterString>large_thumbnail</gco:CharacterString>
+                    </fileDescription>
+                    <fileType>
+                        <gco:CharacterString>png</gco:CharacterString>
+                    </fileType>
+                </MD_BrowseGraphic>
+            </graphicOverview>
+            <graphicOverview>
+                <MD_BrowseGraphic>
+                    <fileName gco:nilReason="withheld"/>
+                    <fileDescription>
+                        <gco:CharacterString>large_thumbnail</gco:CharacterString>
+                    </fileDescription>
+                    <fileType>
+                        <gco:CharacterString>png</gco:CharacterString>
+                    </fileType>
+                </MD_BrowseGraphic>
+            </graphicOverview>
+            <graphicOverview>
+                <MD_BrowseGraphic>
+                    <fileName gco:nilReason="withheld"/>
+                    <fileDescription>
+                        <gco:CharacterString>large_thumbnail</gco:CharacterString>
+                    </fileDescription>
+                    <fileType>
+                        <gco:CharacterString>png</gco:CharacterString>
+                    </fileType>
+                </MD_BrowseGraphic>
+            </graphicOverview>
+            <graphicOverview>
+                <MD_BrowseGraphic>
+                    <fileName gco:nilReason="withheld"/>
+                    <fileDescription>
+                        <gco:CharacterString>thumbnail</gco:CharacterString>
+                    </fileDescription>
+                    <fileType>
+                        <gco:CharacterString>png</gco:CharacterString>
+                    </fileType>
+                </MD_BrowseGraphic>
+            </graphicOverview>
+            <graphicOverview>
+                <MD_BrowseGraphic>
+                    <fileName gco:nilReason="withheld"/>
+                    <fileDescription>
+                        <gco:CharacterString>thumbnail</gco:CharacterString>
+                    </fileDescription>
+                    <fileType>
+                        <gco:CharacterString>png</gco:CharacterString>
+                    </fileType>
+                </MD_BrowseGraphic>
+            </graphicOverview>
+            <graphicOverview>
+                <MD_BrowseGraphic>
+                    <fileName gco:nilReason="withheld"/>
+                    <fileDescription>
+                        <gco:CharacterString>thumbnail</gco:CharacterString>
+                    </fileDescription>
+                    <fileType>
+                        <gco:CharacterString>png</gco:CharacterString>
+                    </fileType>
+                </MD_BrowseGraphic>
+            </graphicOverview>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>BATHYMETRY</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>DEPTH</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>WATER</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>HYDROLOGY</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>FISHING</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>UNDERWATER</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>FISH</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>LAKES</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+                    </type>
+                    <thesaurusName>
+                        <CI_Citation>
+                            <title>
+                                <gco:CharacterString>external</gco:CharacterString>
+                            </title>
+                            <date gco:nilReason="missing"/>
+                            <citedResponsibleParty gco:nilReason="missing"/>
+                        </CI_Citation>
+                    </thesaurusName>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <resourceConstraints>
+                <MD_Constraints>
+                    <useLimitation>
+                        <gco:CharacterString>Open Government Licence – Ontario</gco:CharacterString>
+                    </useLimitation>
+                </MD_Constraints>
+            </resourceConstraints>
+            <resourceConstraints>
+                <MD_LegalConstraints>
+                    <accessConstraints>
+                        <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115">otherRestrictions</MD_RestrictionCode>
+                    </accessConstraints>
+                    <otherConstraints>
+                        <gco:CharacterString>Other Constraints</gco:CharacterString>
+                    </otherConstraints>
+                </MD_LegalConstraints>
+            </resourceConstraints>
+            <resourceConstraints>
+                <MD_LegalConstraints>
+                    <useConstraints>
+                        <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115">otherRestrictions</MD_RestrictionCode>
+                    </useConstraints>
+                    <otherConstraints>
+                        <gco:CharacterString>Other Constraints</gco:CharacterString>
+                    </otherConstraints>
+                </MD_LegalConstraints>
+            </resourceConstraints>
+            <resourceConstraints>
+                <MD_LegalConstraints>
+                    <accessConstraints>
+                        <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115">otherRestrictions</MD_RestrictionCode>
+                    </accessConstraints>
+                    <otherConstraints>
+                        <gco:CharacterString>Other Constraints</gco:CharacterString>
+                    </otherConstraints>
+                </MD_LegalConstraints>
+            </resourceConstraints>
+            <resourceConstraints>
+                <MD_LegalConstraints>
+                    <useConstraints>
+                        <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115">otherRestrictions</MD_RestrictionCode>
+                    </useConstraints>
+                    <otherConstraints>
+                        <gco:CharacterString>Other Constraints</gco:CharacterString>
+                    </otherConstraints>
+                </MD_LegalConstraints>
+            </resourceConstraints>
+            <resourceConstraints>
+                <MD_LegalConstraints>
+                    <accessConstraints>
+                        <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115">otherRestrictions</MD_RestrictionCode>
+                    </accessConstraints>
+                    <otherConstraints>
+                        <gco:CharacterString>Other Constraints</gco:CharacterString>
+                    </otherConstraints>
+                </MD_LegalConstraints>
+            </resourceConstraints>
+            <resourceConstraints>
+                <MD_LegalConstraints>
+                    <useConstraints>
+                        <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115">otherRestrictions</MD_RestrictionCode>
+                    </useConstraints>
+                    <otherConstraints>
+                        <gco:CharacterString>Other Constraints</gco:CharacterString>
+                    </otherConstraints>
+                </MD_LegalConstraints>
+            </resourceConstraints>
+            <resourceConstraints>
+                <MD_LegalConstraints>
+                    <accessConstraints>
+                        <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115">otherRestrictions</MD_RestrictionCode>
+                    </accessConstraints>
+                    <otherConstraints>
+                        <gco:CharacterString>Other Constraints</gco:CharacterString>
+                    </otherConstraints>
+                </MD_LegalConstraints>
+            </resourceConstraints>
+            <resourceConstraints>
+                <MD_LegalConstraints>
+                    <useConstraints>
+                        <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115">otherRestrictions</MD_RestrictionCode>
+                    </useConstraints>
+                    <otherConstraints>
+                        <gco:CharacterString>Other Constraints</gco:CharacterString>
+                    </otherConstraints>
+                </MD_LegalConstraints>
+            </resourceConstraints>
+            <language>
+                <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+            </language>
+            <characterSet>
+                <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+            </characterSet>
+            <topicCategory>
+                <MD_TopicCategoryCode>elevation</MD_TopicCategoryCode>
+            </topicCategory>
+            <topicCategory>
+                <MD_TopicCategoryCode>inlandWaters</MD_TopicCategoryCode>
+            </topicCategory>
+            <environmentDescription>
+                <gco:CharacterString>LIO</gco:CharacterString>
+            </environmentDescription>
+            <extent>
+                <EX_Extent>
+                    <geographicElement>
+                        <EX_GeographicBoundingBox>
+                            <westBoundLongitude>
+                                <gco:Decimal>-95.1569900512695</gco:Decimal>
+                            </westBoundLongitude>
+                            <eastBoundLongitude>
+                                <gco:Decimal>-74.3079833984375</gco:Decimal>
+                            </eastBoundLongitude>
+                            <southBoundLatitude>
+                                <gco:Decimal>41.6722984313965</gco:Decimal>
+                            </southBoundLatitude>
+                            <northBoundLatitude>
+                                <gco:Decimal>56.8501167297363</gco:Decimal>
+                            </northBoundLatitude>
+                        </EX_GeographicBoundingBox>
+                    </geographicElement>
+                </EX_Extent>
+            </extent>
+        </MD_DataIdentification>
+    </identificationInfo>
+    <distributionInfo>
+        <MD_Distribution>
+            <distributionFormat gco:nilReason="missing"/>
+            <transferOptions>
+                <MD_DigitalTransferOptions>
+                    <onLine>
+                        <CI_OnlineResource>
+                            <linkage>
+                                <URL>https://www.gisapplication.lrc.gov.on.ca/fmedatadownload/Packages/fgdb/BATHYML.zip</URL>
+                            </linkage>
+                            <protocol gco:nilReason="missing"/>
+                            <name>
+                                <gco:CharacterString>Complete File Geodatabase</gco:CharacterString>
+                            </name>
+                        </CI_OnlineResource>
+                    </onLine>
+                    <onLine>
+                        <CI_OnlineResource>
+                            <linkage>
+                                <URL>https://www.gisapplication.lrc.gov.on.ca/fmedatadownload/Packages/BATHYML.zip</URL>
+                            </linkage>
+                            <protocol gco:nilReason="missing"/>
+                            <name>
+                                <gco:CharacterString>Complete Shapefile</gco:CharacterString>
+                            </name>
+                        </CI_OnlineResource>
+                    </onLine>
+                    <onLine>
+                        <CI_OnlineResource>
+                            <linkage>
+                                <URL>https://www.publicdocs.mnr.gov.on.ca/mirb/lio-open-qlr-eng/bathymetry-line.qlr</URL>
+                            </linkage>
+                            <protocol gco:nilReason="missing"/>
+                            <name>
+                                <gco:CharacterString>QGIS Layer Definition File (.qlr)</gco:CharacterString>
+                            </name>
+                        </CI_OnlineResource>
+                    </onLine>
+                </MD_DigitalTransferOptions>
+            </transferOptions>
+        </MD_Distribution>
+    </distributionInfo>
+    <dataQualityInfo>
+        <DQ_DataQuality>
+            <scope>
+                <DQ_Scope>
+                    <level>
+                        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+                    </level>
+                </DQ_Scope>
+            </scope>
+            <report>
+                <DQ_RelativeInternalPositionalAccuracy>
+                    <measureDescription>
+                        <gco:CharacterString>Horizontal: Precise: +/- 10 m (variable); Vertical: Reliable: +/- 5 m</gco:CharacterString>
+                    </measureDescription>
+                    <result gco:nilReason="missing"/>
+                </DQ_RelativeInternalPositionalAccuracy>
+            </report>
+        </DQ_DataQuality>
+    </dataQualityInfo>
+</MD_Metadata>
